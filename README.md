@@ -7,4 +7,4 @@ Tecnologias:
 
  - HTML
  - CSS
- -Jquery
+ - Jquery
