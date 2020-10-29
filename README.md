@@ -10,6 +10,6 @@ Tecnologias:
  - Jquery
 
 
-![]()
-![]()
-![]()
+![](https://github.com/Ramon-Goveia/Interface-Netflix-Clone/blob/master/net-clone-01.png)
+![](https://github.com/Ramon-Goveia/Interface-Netflix-Clone/blob/master/net-clone-03.png)
+![](https://github.com/Ramon-Goveia/Interface-Netflix-Clone/blob/master/net-clone-02.png)
